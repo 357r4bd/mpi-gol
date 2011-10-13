@@ -1,0 +1,6 @@
+One of very first MPI programs; could use some dusting.
+
+Need to:
+
+- create Makefile
+- make dimensions of board more flexible
